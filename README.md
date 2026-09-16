@@ -21,10 +21,10 @@ Because the 74LS90 is an LS-series (Low-power Schottky) logic chip, it is strict
 
 ## Testing
 
-The Red LED is for 1
-The Yellow LED is for 2
-The Green LED is for 4
-The Blue LED is for 8
+- The Red LED is for 1
+- The Yellow LED is for 2
+- The Green LED is for 4
+- The Blue LED is for 8
 
 https://github.com/user-attachments/assets/b8dcc610-90b7-4d0b-bdf6-9d9a19adadde
 
