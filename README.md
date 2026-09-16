@@ -20,8 +20,15 @@ Because the 74LS90 is an LS-series (Low-power Schottky) logic chip, it is strict
 <img width="1125" height="202" alt="image" src="[INSERT_KICAD_SCHEMATIC_LINK_HERE]" />
 
 ## Testing
-*(Insert video demonstrating the clock speed adjustment and the 0-9 binary count loop here)*
-https://github.com/user-attachments/assets/[INSERT_VIDEO_LINK_HERE]
+
+The Red LED is for 1
+The Yellow LED is for 2
+The Green LED is for 4
+The Blue LED is for 8
+
+https://github.com/user-attachments/assets/b8dcc610-90b7-4d0b-bdf6-9d9a19adadde
+
+
 
 ## Construction Notes & Hardware Quirks
 - **The BCD Loop:** To configure the 74LS90 to count properly, its internal bi-quinary flip-flops must be cascaded. This requires a hardwired jumper from Pin 12 (Q0) directly to Pin 1 (CP1). 
