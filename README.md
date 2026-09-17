@@ -17,7 +17,8 @@ Because the 74LS90 is an LS-series (Low-power Schottky) logic chip, it is strict
 [5V Linear Breadboard Power Supply](https://github.com/mhos2006/starter-dc-makeshift-power-supply)
 
 ## Schematics
-<img width="1125" height="202" alt="image" src="[INSERT_KICAD_SCHEMATIC_LINK_HERE]" />
+<img width="1581" height="307" alt="image" src="https://github.com/user-attachments/assets/c5741f8c-4360-41d1-87d4-afb238ec764b" />
+
 
 ## Testing
 
